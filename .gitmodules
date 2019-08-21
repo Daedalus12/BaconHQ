@@ -1,0 +1,3 @@
+[submodule "BaconPancake"]
+	path = BaconPancake
+	url = git@github.com:Daedalus12/BaconPancake.git
